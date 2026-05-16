@@ -54,7 +54,7 @@ This project was created as a UI/UX practice concept for:
 
 | Welcome Screen | Planning Screen | Progress Screen |
 |:---:|:---:|:---:|
-| <img src="./images/welcome-screen.png" alt="Welcome Screen" width="250"> | <img src="./images/planning-screen.png" alt="Planning Screen" width="250"> | <img src="./images/progress-screen.png" alt="Progress Screen" width="250"> |
+| <img src="./images/welcome-screen.png" alt="Welcome Screen" width="250"> |
 
 </div>
 
