@@ -53,7 +53,7 @@ This project was created as a UI/UX practice concept for:
 <div align="center">
 
 | Welcome Screen | Planning Screen | Progress Screen |
-|:---:|:---:|:---:|
+|:---:|
 | <img src="./images/welcome-screen.png" alt="Welcome Screen" width="250"> |
 
 </div>
