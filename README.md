@@ -1,6 +1,6 @@
 # 📱 Mobile Onboarding Flow UI
 
-A clean and modern mobile onboarding flow designed to create a smooth and engaging first-time user experience. This concept focuses on simplicity, usability, and visually pleasing aesthetics using soft purple tones and minimal illustrations.
+A clean and modern mobile onboarding flow designed to create a smooth and engaging first-time user experience. This concept focuses on simplicity, usability, and visually pleasing aesthetics using [...]
 
 ---
 
@@ -50,12 +50,13 @@ This project was created as a UI/UX practice concept for:
 
 ## 📸 Preview
 
-Modern onboarding screens featuring:
+<div align="center">
 
-- Welcome interaction
-- Goal planning
-- Progress tracking
-- Intuitive navigation buttons
+| Welcome Screen | Planning Screen | Progress Screen |
+|:---:|:---:|:---:|
+| <img src="./images/welcome-screen.png" alt="Welcome Screen" width="250"> | <img src="./images/planning-screen.png" alt="Planning Screen" width="250"> | <img src="./images/progress-screen.png" alt="Progress Screen" width="250"> |
+
+</div>
 
 ---
 
@@ -67,4 +68,4 @@ Designed by **Manishwari Banda**
 
 ## 📄 License
 
-This project is free to use for learning and personal inspiration. 
+This project is free to use for learning and personal inspiration.
