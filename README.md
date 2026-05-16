@@ -49,7 +49,6 @@ This project was created as a UI/UX practice concept for:
 ---
 
 ## 📸 Preview
-## 📸 Preview
 
 <div align="center">
 
